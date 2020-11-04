@@ -3,7 +3,7 @@ let myintro =()=>{
         let intro = [{fname:'Shristi',
         lname:'Shrestha', 
         address:'Balaju',
-        age:20,
+        age:20
         }]
         if (intro.length>0){
             resolve(intro)}
